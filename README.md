@@ -1,0 +1,2 @@
+# COVID-19-Analysis
+Used MLPRegressor of Python to explore and learn about the basic working of MLP and attempt to predict the probability of COVID-19 infection given various factors such as Gender, age, Blood glucose, Coma score, Pulmonary score, Occupation, Co-morbidity such as Hypertension, Kidney Disease etc, Cardiological Pressure, Diuresis, Platelets, Heart rate, HDL cholesterol, mode of transport etc.
